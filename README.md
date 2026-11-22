@@ -71,9 +71,7 @@ CodeAlpha_BasicNetworkSniffer/
 ├── main.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-└── screenshots/
-    └── (add your own execution screenshots here)
+└── gitignore
 ```
 
 ## Submission evidence checklist
